@@ -1,0 +1,10 @@
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\bin\Debug\Maximo comun divisor.exe.config
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\bin\Debug\Maximo comun divisor.exe
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\bin\Debug\Maximo comun divisor.pdb
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo comun divisor.csproj.AssemblyReference.cache
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo_comun_divisor.Form1.resources
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo_comun_divisor.Properties.Resources.resources
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo comun divisor.csproj.GenerateResource.cache
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo comun divisor.csproj.CoreCompileInputs.cache
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo comun divisor.exe
+C:\Users\chanj\source\repos\Maximo comun divisor\Maximo comun divisor\obj\Debug\Maximo comun divisor.pdb

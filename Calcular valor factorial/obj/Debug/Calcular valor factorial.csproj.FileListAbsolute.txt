@@ -1,0 +1,10 @@
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\bin\Debug\Calcular valor factorial.exe.config
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\bin\Debug\Calcular valor factorial.exe
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\bin\Debug\Calcular valor factorial.pdb
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular valor factorial.csproj.AssemblyReference.cache
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular_valor_factorial.Form1.resources
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular_valor_factorial.Properties.Resources.resources
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular valor factorial.csproj.GenerateResource.cache
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular valor factorial.csproj.CoreCompileInputs.cache
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular valor factorial.exe
+C:\Users\chanj\source\repos\Calcular valor factorial\Calcular valor factorial\obj\Debug\Calcular valor factorial.pdb
